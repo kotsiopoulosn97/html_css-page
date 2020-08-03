@@ -1,0 +1,74 @@
+
+
+    body
+	{
+		font-size: 20px;
+    	color: #48466d;
+		margin: 0px;
+		padding: 0px;
+		background-color: #abedd8;
+
+	 }
+
+
+
+
+    header {
+			background-image: url("images/chania_panorama.jpg");
+	      height: 180px;
+	  background-repeat: no-repeat;
+	  background-size: 100% 100%;
+	  margin: 0;
+      padding: 0;
+      position: relative;
+
+    }
+
+     h1 {
+      color: #FFFF9D;
+      font-size: 60px;
+      margin: 0;
+      padding: 5px;
+      position: center;
+      right: 20px;
+      top: 20px;
+    }
+
+    ul {
+      padding: 0;
+	  list-style-type: none;
+      margin: 10px;
+      width: 200px;
+      float: left;
+      min-height: 300px;
+    }
+
+
+    ul li {
+      background-color: #55ACEE	;
+      border: solid thin #6A65D8;
+      height: 30px;
+      margin: 15px 0 0 0;
+      padding: 5px;
+      text-align: left;
+      font-size: 20px;
+    }
+
+     ul li a {
+      text-decoration: none;
+    }
+
+     ul li a:hover {
+      font-weight: 600;
+    }
+
+
+
+
+    footer {
+      clear: both;
+      background-color: #E1E1E1;
+      height: 20px;
+      padding: 10px;
+      margin: 0;
+    }
